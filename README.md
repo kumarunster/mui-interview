@@ -2,6 +2,10 @@
 
 >Please **do not** fork this repository via github fork function. Just clone it and as soon it is done upload somewhere and share the link.
 
+or make your own fork on sandbox and share your own link:
+
+[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/black-cdn-rg5i7)
+
 Implement a Data Table to show people and entities under EU sanctions by utilizing [agGrid community edition](https://www.ag-grid.com/react-grid/getting-started/!) and Material UI.
 
 The task includes following sub tasks:

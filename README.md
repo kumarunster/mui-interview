@@ -30,4 +30,6 @@ keep in mind, that for the same _Entity_EU_ReferenceNumber_ multimple names/alia
 
 Working url for data fetch can be found [here](https://data.europa.eu/euodp/data/dataset/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions-fisma/resource/421d4220-42b5-458f-8c0c-aa666db7c0ce184276e7-d3ec-4908-8d29-1bd3b5730666c13d9f68-5f9e-4875-bd71-478716316106#)
 
+>For CORS-caused issues you can download the raw data locally or you can use https://cors-anywhere.herokuapp.com/ for development purpose. You'll have to pass 'X-Requested-With': "https://webgate.ec.europa.eu" as header in your data fetch service.
+
 
